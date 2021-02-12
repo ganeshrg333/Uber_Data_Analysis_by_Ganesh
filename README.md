@@ -1,0 +1,2 @@
+# Uber_Data_Analysis_by_Ganesh
+This project is all about to analyze the UBER Data. This is my personal project to improve my Data Science skills. Looking at Data find that the data is increasing day by day and approx 2.5 quintillion bytes of data generate every day. Now, from this data analysis and get useful information which is most important and to understand that here we perform data analysis on UBER data using Python.
